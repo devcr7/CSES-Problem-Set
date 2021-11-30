@@ -5,7 +5,8 @@ using namespace std;
 // #include <ext/pb_ds/tree_policy.hpp>
 // using namespace __gnu_pbds;
 // #define ordered_set tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update>
-
+//
+#define ll              long long int
 #define ff              first
 #define ss              second
 #define fo(i,n)         for(int i=0;i<n;i++)
@@ -20,7 +21,6 @@ using namespace std;
 #define yes             cout<<"YES\n"
 #define no              cout<<"NO\n"
 #define vpii            vector<pair<int,int>>
-#define ll              long long int
 #define vi              vector<ll>
 #define mod             1000000007
 #define tc(t)           int t; cin>>t; while(t--)
